@@ -15,3 +15,6 @@ GETTING STARTED
     python manage.py createsuperuser
     
 ![](static/images/personal-blog.jpg)
+# This is Hoshi Seina Introduction resume website
+ ## live site
+ [Hoshi Seina Website](https://hoshiseina.herokuapp.com/)
